@@ -8,12 +8,12 @@
 main:
 	ld r20,CONTROL(r0) 
 	ld r21,DATA(r0)		; load control and data
-	daddi r1,r0,1010    ; load value into register
+	daddi r1,r0,1010    	; load value into register
 	sd r1,0(r21) 	 	; first set DATA
-						; '0' is the address of memory
+				; '0' is the address of memory
 	daddi r1,r0,2 		; '2' is the integer output command
 	sd r1,0(r20) 		; then write CONTROL 
-						; outputs on WinMips64 terminal
+				; outputs on WinMips64 terminal
 
 
 
