@@ -1,3 +1,3 @@
 # Assembly-Language-Practice
 
-This is a assembly language practice repository.
+This is a WinMIPS64 assembly language practice repository.
