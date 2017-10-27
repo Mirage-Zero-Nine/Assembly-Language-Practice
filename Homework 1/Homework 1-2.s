@@ -14,8 +14,3 @@ main:
 	daddi r1,r0,2 		; '2' is the integer output command
 	sd r1,0(r20) 		; then write CONTROL 
 				; outputs on WinMips64 terminal
-
-
-
-
-	
