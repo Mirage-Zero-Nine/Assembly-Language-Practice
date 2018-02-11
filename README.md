@@ -1,3 +1,5 @@
 # Assembly-Language-Practice
 
-This is a WinMIPS64 assembly language practice repository.
+This repository contains some code files that related to WinMIPS64.
+
+Only some simple and basic practice that can help to recall when coding basic assembly language file.
